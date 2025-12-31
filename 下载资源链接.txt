@@ -1,0 +1,7 @@
+🔗 資源連結：
+Node.js 官方: https://nodejs.org/
+Claude (Anthropic) 官方: https://docs.anthropic.com/en/docs/cl...
+GitHub: https://github.com/
+VS Code: https://code.visualstudio.com/
+Windows WSL 安裝指南: https://learn.microsoft.com/zh-tw/win...
+Google Gemini API: https://ai.google.dev/
